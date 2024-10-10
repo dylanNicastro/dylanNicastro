@@ -19,7 +19,7 @@ public class DylanNicastro {
 
     @Override
     public String toString() {
-        return "Welcome to my GitHub profile! I'm a student who enjoys writing code, playing videogames, and learning new things.";
+        return "Welcome to my GitHub profile! I'm an aspiring backend developer with a bit of full-stack knowledge.";
     }
 }
 ```
