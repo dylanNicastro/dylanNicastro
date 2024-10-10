@@ -1,16 +1,25 @@
-## Hi there 👋
+```java
+public class DylanNicastro {
+    String name;
+    int age;
+    String university;
+    boolean lookingForInternship;
+    String[] learned;
+    String[] currentlyLearning;
 
-<!--
-**dylanNicastro/dylanNicastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    public DylanNicastro() {
+        this.name = "Dylan Nicastro";
+        this.age = 19;
+        this.university = "Stony Brook University";
+        this.lookingForInternship = true;
 
-Here are some ideas to get you started:
+        this.learned = new String[] {"C", "Java", "Python", "Javascript", "HTML", "CSS"};
+        this.currentlyLearning = new String[] {"React", "Node.js", "MongoDB", "Express"};
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    @Override
+    public String toString() {
+        return "Welcome to my GitHub profile! I'm a student who enjoys writing code, playing videogames, and learning new things.";
+    }
+}
+```
