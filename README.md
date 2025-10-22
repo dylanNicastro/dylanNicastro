@@ -4,7 +4,7 @@ I'm Dylan Nicastro! I'm currently progressing through my B.S. in CS, as well as 
 我在学习中文！
 
 ## Proficient with:
-<img height=50px src="https://devicon-website.vercel.app/api/c/original.svg"></img>
+<img height=50px src="https://devicon-website.vercel.app/api/c/original.svg" />
 <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -14,5 +14,4 @@ I'm Dylan Nicastro! I'm currently progressing through my B.S. in CS, as well as 
 ## Experimenting with:
 <img height=50px src="https://devicon-website.vercel.app/api/rust/plain.svg?color=%23D34516" />
 <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<!-- <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> Will uncomment this when I actually start using Go... -->
 <img height=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
